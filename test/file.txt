@@ -1,3 +1,4 @@
 How to getting a repo?
 1- cloning the repo
 2- convert local folder to git repo then push it to remote
+3- forking
